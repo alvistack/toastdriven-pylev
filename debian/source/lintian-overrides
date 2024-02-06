@@ -1,0 +1,4 @@
+python-pylev source: file-without-copyright-information
+python-pylev source: no-debian-changes
+python-pylev source: source-contains-prebuilt-windows-binary
+python-pylev source: source-package-encodes-python-version
